@@ -49,18 +49,18 @@ cd health census
 ## Customization
 
 The application's appearance can be easily customized by modifying the CSS files:
-- `styles.css` - Main stylesheet for the application
+- `health_analysis.css` - Main stylesheet for the application
 
 ## Project Structure
 
 ```
-healthcare-data-analysis/
+healthAnalysis/
 │
 ├── index.html          # Main HTML file
 ├── css/
-│   └── styles.css      # CSS styling
+│   └── health_analysis.css      # CSS styling
 ├── js/
-│   └── script.js       # JavaScript functionality
+│   └── health_analysis.js       # JavaScript functionality
 └── README.md           # This file
 ```
 
