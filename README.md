@@ -29,7 +29,7 @@ git clone https:https://github.com/ezegeorgechukwuma/health_census.git
 
 2. Open the project folder
 ```
-cd cd health census
+cd health census
 ```
 
 3. Open `index.html` in your web browser to run the application locally
