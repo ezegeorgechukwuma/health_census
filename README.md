@@ -24,12 +24,12 @@ This application provides a simple interface for healthcare professionals to inp
 
 1. Clone this repository to your local machine
 ```
-git clone https://github.com/yourusername/healthcare-data-analysis.git
+git clone https:https://github.com/ezegeorgechukwuma/health_census.git
 ```
 
 2. Open the project folder
 ```
-cd healthcare-data-analysis
+cd cd health census
 ```
 
 3. Open `index.html` in your web browser to run the application locally
@@ -74,4 +74,4 @@ This project is licensed under the Apache License - see the LICENSE file for det
 
 ## Contact
 
-For any questions or feedback, please reach out to ezegeorgechukwuma@gmail.com(mailto:your-email@example.com)
+For any questions or feedback, please reach out to ezegeorgechukwuma@gmail.com
